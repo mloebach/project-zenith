@@ -1,0 +1,9 @@
+
+@char Main
+@printer TextMain
+Main: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor lectus, tempor non vestibulum vitae, suscipit et nunc. Phasellus molestie neque vitae lectus ullamcorper interdum. Nunc condimentum, tortor non porta sollicitudin
+@hideChars
+@printer TextRight
+@char Left
+Main: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor lectus, tempor non vestibulum vitae, suscipit et nunc. Phasellus molestie neque vitae lectus ullamcorper interdum. Nunc condimentum, tortor non porta sollicitudin
+@stop
